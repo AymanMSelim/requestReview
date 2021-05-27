@@ -29,7 +29,7 @@ mysqli_set_charset($conn,'utf8');
 
 $serverName = "den1.mysql6.gear.host";
 $userName = "sanyaatest";
-$dbPass = "Ko6j1572F7_~";
+$dbPass = "";
 $dbName = "sanyaatest";
 
 //create connection
